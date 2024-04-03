@@ -1,0 +1,19 @@
+.about{
+    position: relative;
+    width: 100%;
+}
+.about__heading{
+    padding: 10px;
+    color: rgb(134, 241, 134);
+     font-size: 40px; 
+     font-weight: 800;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.about__wrapper{
+    width: 100%;
+}
+
+.about__wrapper p{
+    padding: 15px;
+}

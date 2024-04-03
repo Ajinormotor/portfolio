@@ -1,0 +1,37 @@
+.skills{
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+.heading__skills h1{
+    padding: 10px;
+    color: rgb(134, 241, 134);
+     font-size: 40px; 
+     font-weight: 800;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.skills___wrapper{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+ 
+}
+
+.skills__box{
+    text-align: center;
+    padding: 20px;
+}
+
+.skills__box i{
+    font-size: 60px;
+}
+.skills__box h1{
+    font-weight: 600;
+    font-size: 35px;
+}

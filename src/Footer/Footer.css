@@ -1,0 +1,35 @@
+.footer{
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    background: rgb(134, 241, 134);
+    bottom: 0px;
+}
+
+
+.footer__wrapper{
+    text-align: center;
+    color: #fff;
+    padding-top: 5%;
+}
+
+.footer p{
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+}
+
+.footer__menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 2rem;
+    padding-top: 3%;
+    text-align: center;
+    width: 100%;
+}
+
+.footer__menu li{
+    font-size: 30px;
+}
