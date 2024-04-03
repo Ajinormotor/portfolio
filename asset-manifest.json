@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Ajinormotor.io/portfolio/static/css/main.025be450.css",
-    "main.js": "/Ajinormotor.io/portfolio/static/js/main.f56a5c3e.js",
-    "static/media/remixicon.svg?t=1702216974873": "/Ajinormotor.io/portfolio/static/media/remixicon.a893a09db081c33b6f37.svg",
-    "static/media/foodielandportfolio.png": "/Ajinormotor.io/portfolio/static/media/foodielandportfolio.39c70bc83b862c7153f5.png",
-    "static/media/portfolio.png": "/Ajinormotor.io/portfolio/static/media/portfolio.d3076025c67f9fbd6e1c.png",
-    "static/media/liodesignportfolio.png": "/Ajinormotor.io/portfolio/static/media/liodesignportfolio.40f6ea6b9e91baadf00b.png",
-    "static/media/remixicon.eot?t=1702216974873": "/Ajinormotor.io/portfolio/static/media/remixicon.7832fc24b1b5c2fa8673.eot",
-    "static/media/remixicon.ttf?t=1702216974873": "/Ajinormotor.io/portfolio/static/media/remixicon.52f0778f38dae2e35278.ttf",
-    "static/media/remixicon.woff?t=1702216974873": "/Ajinormotor.io/portfolio/static/media/remixicon.b99107ec9873a9f609e8.woff",
-    "static/media/nextcentportfolio.png": "/Ajinormotor.io/portfolio/static/media/nextcentportfolio.928b94c82fa2e3ac9c04.png",
-    "static/media/remixicon.woff2?t=1702216974873": "/Ajinormotor.io/portfolio/static/media/remixicon.292547ce587667ba1294.woff2",
-    "static/media/wakaholicportfolio.png": "/Ajinormotor.io/portfolio/static/media/wakaholicportfolio.eb59b39da738753ec9a2.png",
-    "static/media/slick.svg": "/Ajinormotor.io/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Ajinormotor.io/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Ajinormotor.io/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Ajinormotor.io/portfolio/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Ajinormotor.io/portfolio/index.html",
-    "main.025be450.css.map": "/Ajinormotor.io/portfolio/static/css/main.025be450.css.map",
-    "main.f56a5c3e.js.map": "/Ajinormotor.io/portfolio/static/js/main.f56a5c3e.js.map"
+    "main.css": "/portfolio/static/css/main.74184a5c.css",
+    "main.js": "/portfolio/static/js/main.e72ed885.js",
+    "static/media/remixicon.svg?t=1702216974873": "/portfolio/static/media/remixicon.a893a09db081c33b6f37.svg",
+    "static/media/foodielandportfolio.png": "/portfolio/static/media/foodielandportfolio.39c70bc83b862c7153f5.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.d3076025c67f9fbd6e1c.png",
+    "static/media/liodesignportfolio.png": "/portfolio/static/media/liodesignportfolio.40f6ea6b9e91baadf00b.png",
+    "static/media/remixicon.eot?t=1702216974873": "/portfolio/static/media/remixicon.7832fc24b1b5c2fa8673.eot",
+    "static/media/remixicon.ttf?t=1702216974873": "/portfolio/static/media/remixicon.52f0778f38dae2e35278.ttf",
+    "static/media/remixicon.woff?t=1702216974873": "/portfolio/static/media/remixicon.b99107ec9873a9f609e8.woff",
+    "static/media/nextcentportfolio.png": "/portfolio/static/media/nextcentportfolio.928b94c82fa2e3ac9c04.png",
+    "static/media/remixicon.woff2?t=1702216974873": "/portfolio/static/media/remixicon.292547ce587667ba1294.woff2",
+    "static/media/wakaholicportfolio.png": "/portfolio/static/media/wakaholicportfolio.eb59b39da738753ec9a2.png",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portfolio/index.html",
+    "main.74184a5c.css.map": "/portfolio/static/css/main.74184a5c.css.map",
+    "main.e72ed885.js.map": "/portfolio/static/js/main.e72ed885.js.map"
   },
   "entrypoints": [
-    "static/css/main.025be450.css",
-    "static/js/main.f56a5c3e.js"
+    "static/css/main.74184a5c.css",
+    "static/js/main.e72ed885.js"
   ]
 }
