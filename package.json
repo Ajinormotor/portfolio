@@ -1,4 +1,8 @@
-{"homepage":"https://github.io/Ajinormotor.io/portfolio","name":"1","version":"0.1.0","private":true,"dependencies":{"@testing-library/jest-dom":"^5.17.0",
+{"homepage":"https://ajinormotor.github.io/portfolio",
+"name":"1",
+"version":"0.1.0",
+"private":true,
+"dependencies":{"@testing-library/jest-dom":"^5.17.0",
 "@testing-library/react":"^13.4.0",
 "@testing-library/user-event":"^13.5.0",
 "aos":"^3.0.0-beta.6","ityped":"^1.0.3",
@@ -9,7 +13,7 @@
 "react-slick":"^0.30.2","web-vitals":"^2.1.4"},
 "scripts":{
   "start":"react-scripts start",
-  "deplyo":"npm run build && gh-pages -d build",
+  "deploy":"npm run build && gh-pages -d build",
 "build":"react-scripts build",
 "test":"react-scripts test",
 "eject":"react-scripts eject"
