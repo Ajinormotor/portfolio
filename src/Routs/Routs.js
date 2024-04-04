@@ -8,19 +8,17 @@ import React from 'react'
 import Home from "../Pages/Home"
 
 const Routs = () => {
-  return <>
+  return (
   
+  <Routes>
+      <Route path="/" element={<Navigate to="/home" replace />} />
+      <Route path="/home" element={<Home />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/projects" element={<Projects />} />
 
-    <Routes>
-
-    <Route path="/"   element={<Navigate to="/home" replace />}   />
-    <Route path="/home"   element={<Home  />}   />
-    <Route path='/about'   element={<About  />}   />
-    <Route path='/projects'   element={<Projects  />}   />
-
-    
-            </Routes>
-  </>
+      <Route path="*" element={<Navigate to="/home" />} />
+    </Routes>
+  )
 }
 
 export default Routs
