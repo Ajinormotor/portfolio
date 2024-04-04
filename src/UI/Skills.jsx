@@ -52,6 +52,7 @@ const Skills = () => {
    <div  className="skills__box">
    <i class="ri-javascript-fill"></i>
     <h1>JAVASCRIPT</h1>
+    <p>Basic understanding in javascript concept</p>
    </div>
 
 
@@ -72,6 +73,7 @@ const Skills = () => {
    <div  className="skills__box">
    <i class="ri-nodejs-fill"></i>
    <h1>NODE.JS</h1>
+   <p>Basic understanding in Node.js such as login?register authentication</p>
    </div>
 
   
