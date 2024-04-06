@@ -3,6 +3,7 @@
     width: 100%;
     padding-top: 5%;
     padding-bottom: 5%;
+  
 }
 
 .hero__wrapper{
@@ -17,10 +18,11 @@
 .hero__text h1{
     font-size: 30px;
     font-weight: 600;
+    color: #fff;
 }
 
 .hero__text p{
-    
+    color: #fff;
     padding-bottom:3%;
     padding-top: 3%;
 }

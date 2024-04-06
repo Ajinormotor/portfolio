@@ -12,7 +12,8 @@ const uidata= [
     title:'FOODIELAND',
     img:foodieland,
     description: 'This is foodieland Porject, Got the UI/UX desgin from axia africa',
-    stack:'#HTML #CSS #TAILWINDCSS #REACT.JS'
+    stack:'#HTML #CSS #TAILWINDCSS #REACT.JS',
+    path: 'https://ajinormotor.github.io/foodieland/'
 },
 
 {
@@ -20,7 +21,8 @@ const uidata= [
     title:'LIODESIGN',
     img: liodesign,
     description: 'This is Liodesign',
-    stack:'#HTML #CSS #JAVASCIPT #TAILWINDCSS'
+    stack:'#HTML #CSS #JAVASCIPT #TAILWINDCSS',
+    path: ''
 },
 
 {
@@ -28,7 +30,8 @@ const uidata= [
     title:'NEXCENT',
     img: nexcent,
     description: 'This is nexcent',
-    stack:'#HTML #CSS #JAVASCIPT #TAILWINDCSS'
+    stack:'#HTML #CSS #JAVASCIPT #TAILWINDCSS',
+    path: 'https://ajinormotor.github.io/Nextcent/'
 },
 
 

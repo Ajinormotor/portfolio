@@ -10,3 +10,7 @@
 .root__theme{
   --text-color: rgb(134, 241, 134);
 }
+
+body{
+  background: rgb(27, 27, 27);
+}

@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Link } from 'react-router-dom'
+import { Link, NavLink } from 'react-router-dom'
 
 import "../../Data/portfoliodata/personaldata.js"
 import personaldata from '../../Data/portfoliodata/personaldata.js'
@@ -23,6 +23,11 @@ const personal = () => {
 <Link to='#'>View More</Link>
 
 <p  className="stack">{item.stack}</p>
+
+
+      
+      <button className="personal__btn"><NavLink to="https://ajinormotor.github.io/workaholic/">Demo</NavLink></button>
+      
 
     </div>
 

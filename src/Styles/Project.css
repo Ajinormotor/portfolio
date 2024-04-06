@@ -34,7 +34,6 @@
 .project__btn:hover{
     color: #fff;
     box-shadow: 2px 2px 2px 2px rgb(134, 241, 134) ;
-
 }
 
 .project__subwrapper{
@@ -78,12 +77,14 @@
     font-style: 30px;
     padding-top: 4%;
     padding-bottom: 1%;
+    color: #fff;
 }
 
 .project__card p{
     opacity: 90%;
     padding-top: 2%;
     padding-bottom: 2%;
+    color: #fff;
 
 }
 
@@ -111,6 +112,23 @@
     color: #fff;
     font-size: 20px;
   
+}
+
+.personal__btn{
+    background: rgb(134, 241, 134) ;
+    padding: 6px 12px;
+    border-radius: 10px;
+    width: 150px;
+    cursor: pointer;
+    transition: 0.4s;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7px;
+}
+
+.personal__btn:hover{
+    color: #fff;
+    box-shadow: 2px 2px 2px 2px rgb(134, 241, 134) ;
 }
 
 @media screen  and (max-width:450px) {
