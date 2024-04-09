@@ -1,0 +1,29 @@
+.faq__heading{
+    padding: 10px;
+    color: rgb(134, 241, 134);
+     font-size: 40px; 
+     font-weight: 800;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.faq__wrapper{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin: 20px;
+}
+.faq__top{
+display: flex;
+width: 100%;
+justify-content: space-between;
+padding-bottom: 5px;
+}
+
+.up, .down{
+    color: rgb(134, 241, 134);
+    transition: 0.5s ease;
+}
+.faq__bottom{
+    border-bottom:1px solid rgb(134, 241, 134) ;
+    padding-bottom: 2%;
+}

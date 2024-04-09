@@ -14,6 +14,7 @@ const Footer = () => {
     <li><i class="ri-facebook-circle-line"></i></li>
     <li><i class="ri-linkedin-fill"></i></li>
     <li><i class="ri-twitter-line"></i></li>
+    <li><i class="ri-github-fill"></i></li>
     </ul>
     </div>
 

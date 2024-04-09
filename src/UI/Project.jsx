@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import { NavLink } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 import "../Styles/Project.css"
 import  Personal from "../UI/portfolios/personal"
@@ -50,7 +50,7 @@ const [projectFilter, setProjectFilter]  = useState('PROJECT');
 
         <div className="the__links">
       
-      <button><NavLink to={item.path}>Demo</NavLink></button>
+      <button><Link to={item.path}>Demo</Link></button>
       <button>Design</button>
 
         </div>
